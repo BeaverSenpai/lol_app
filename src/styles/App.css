@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.teamsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.vsContainer {
+  display: flex;
+  align-items: center;
+}
+
+.vsSubtitle {
+  font-size: 100px;
+}

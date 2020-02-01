@@ -1,0 +1,11 @@
+.statsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.statsContainer h3 {
+  margin: 0;
+  margin-top: 5px;
+}

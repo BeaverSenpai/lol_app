@@ -1,0 +1,19 @@
+.divisionContainer {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.imageContainer {
+  width: 100px;
+}
+
+.imageContainer img {
+  width: 100%;
+}
+
+h4 {
+  margin: 0;
+}

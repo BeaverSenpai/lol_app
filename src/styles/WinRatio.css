@@ -1,0 +1,26 @@
+.winRatioContainer {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.innerCircle {
+  border-radius: 50px;
+  height: 75px;
+  width: 75px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
